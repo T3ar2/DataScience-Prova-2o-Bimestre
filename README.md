@@ -2,7 +2,7 @@
 
 Nome: Nicollas Gabriel Hubie Ciola
 
-##CRITÉRIOS 
+## CRITÉRIOS 
 
 Observem os seguintes critérios:
 
