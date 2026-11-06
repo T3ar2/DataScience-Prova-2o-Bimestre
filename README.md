@@ -1,6 +1,6 @@
 # DataScience-Prova-2o-Bimestre
 
-Nome: Nicollas Gabriel Hubie Ciola
+### Nome: Nicollas Gabriel Hubie Ciola
 
 ## CRITÉRIOS 
 
